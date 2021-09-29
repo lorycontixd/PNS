@@ -1,0 +1,13 @@
+configparser
+plum-dispatch
+sqlite3
+tensorflow
+numba
+matplotlib
+tabulate
+scipy
+numpy
+rich
+statsmodels
+keras_visualizer
+argparse
